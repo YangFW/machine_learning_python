@@ -1,3 +1,5 @@
+
+
 # machine-learning
 通过阅读网上的资料代码，进行自我加工，努力实现常用的机器学习算法。
 
@@ -11,3 +13,9 @@
 ### [实现adaboost基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/adaboost)
 ### [实现svm基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/support_vector_machine)
 ### [实现逻辑回归基本算法](https://github.com/SmallVagetable/machine_learning_python/tree/master/logistic_regression)
+
+
+# 注释：：别人的代码，拿来测试上传用的
+
+
+
